@@ -1,1 +1,6 @@
-
+a{
+    display: block;
+    background-color: orange;
+    width: 400px;
+}
+p span{background-color: green;color: white;}
